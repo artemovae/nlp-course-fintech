@@ -1,0 +1,2 @@
+Данные для классификации
+https://www.dropbox.com/s/wyulx430dnpstqx/train.data?dl=0
